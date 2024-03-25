@@ -1,9 +1,9 @@
-## Pedro Sobral - HTML | CSS | Bootstrap | JavaScript | Java
+## Pedro Sobral - FullStack Developer
 
 <div align="center">
   <a href="https://github.com/pSbral">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pSbral&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pSbral&layout=compact&langs_count=7&theme=merko&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pSbral&layout=compact&langs_count=7&theme=great-gatsby&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
   ##
   
-  <div>
- <a href="mailto:s0bralcontact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+  <a href="mailto:s0bralcontact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedrosobral-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
