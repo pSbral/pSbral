@@ -1,4 +1,4 @@
-## Pedro Sobral - FullStack Developer
+## Pedro Sobral - Web Developer
 
 <div align="center">
   <a href="https://github.com/pSbral">
@@ -15,7 +15,9 @@
   <img height="40" width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img height="40" width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img height="40" width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />      
-  <img height="40" width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />                           
+  <img height="40" width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img height="40" width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
 </div>
 
   ##
